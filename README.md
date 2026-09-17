@@ -30,6 +30,10 @@ Amplitude Modulation is the process of changing the amplitude of a relatively hi
 **Note:** Keep all the switch faults in off position.
 
 # ALGORITHM
+<img width="960" height="1280" alt="ff4d9bc8-3a35-4eb8-80eb-5695a93cc730" src="https://github.com/user-attachments/assets/99b867c1-750a-49aa-a03c-c157494f1fd4" />
+<img width="960" height="1280" alt="f71a63e2-aaeb-47b7-af94-31cca9091df5" src="https://github.com/user-attachments/assets/982e9dd1-1972-43c7-9b2d-26fc1806ff20" />
+<img width="960" height="1280" alt="7c467ab0-5c99-4965-8fb5-a6bac0b8067a" src="https://github.com/user-attachments/assets/b97553da-d766-424a-8877-dfeefba7c522" />
+
 
 ### 1. Define Parameters
 
@@ -90,11 +94,13 @@ Compare the original modulating signal with the demodulated signal.
 | 2       | Carrier Signal     |                      |                         |                       |                          |
 | 3       | Modulated Signal   |                      |                         |                       |                          |
 | 4       | Demodulated Signal |                      |                         |                       |                          |
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-17 at 10 39 08 AM" src="https://github.com/user-attachments/assets/253f83de-6d48-4295-aa81-03013bdf102f" />
+
 
 **Modulated Signal:**
 
-* Emax =
-* Emin =
+* Emax =36
+* Emin =12
 
 # CALCULATION
 
