@@ -104,9 +104,9 @@ Compare the original modulating signal with the demodulated signal.
 
 # CALCULATION
 
-1. **ma (Theory) = am/ac =**
+1. **ma (Theory) = am/ac =0.5
 
-2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =**
+2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =0.5
 
 
 
